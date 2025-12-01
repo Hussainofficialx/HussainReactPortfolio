@@ -6,4 +6,4 @@ export default defineConfig({
   // The 'base' property sets the root path for GitHub Pages
   base: "/HussainReactPortfolio/",
   plugins: [react()],
-})
+}); // <-- Removed the comma (,) that was here
